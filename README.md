@@ -1,5 +1,5 @@
-Tracker-with-only-20-line-of-cpp-codes
-
+#Tracker-with-only-20-line-of-cpp-codes
+![Example Result](https://github.com/user-attachments/assets/15945cc1-d107-4403-b31a-7b9bbf1e2b68)
 A super simple object tracker in just 20 lines of C++ code using OpenCV's TrackerCSRT. Perfect for beginners who want a minimal example of real-time tracking with a webcam.
 
 Features
